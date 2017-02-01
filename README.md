@@ -12,7 +12,7 @@ Another working swift card view available in the wild.
 ###### headerField.text = "Enter Your Email and Password to Login"
 ###### headerField.textAlignment = .center
 ###### headerField.sizeToFit() // make sure you call this to calculate uilabel height.
-###### yourCard.addArrangedSubview(headerField)'
+###### yourCard.addArrangedSubview(headerField)
 
 
 
