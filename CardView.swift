@@ -14,7 +14,7 @@ import SnapKit // no need to use snap kit. you can regular auto layout syntax
 class CardView: UIView {
     var totalHeight: CGFloat = 0
     var totalWidth: CGFloat = 0
-    var stackView: UIStackView
+    var stackView: UIStackView // for stacking multiple views, 
     
     init(width: CGFloat){
         totalWidth = width
